@@ -1,24 +1,22 @@
 # C++ Problem Solving
 
-This repository documents my C++ problem-solving journey through multiple learning levels, covering fundamentals, algorithms, data structures basics, file handling, and small systems.
+This repository documents my C++ problem-solving journey through structured learning levels.
 
 ## Repository Structure
 
-* `01-level-1-basics`
-  Basic C++ problem-solving exercises.
+* `Level-01` — C++ fundamentals and basic problem-solving exercises.
+* `Level-02` — Algorithmic thinking and introductory algorithms.
+* `Level-03` — Intermediate problem-solving exercises.
+* `Level-04` — Advanced exercises involving strings, vectors, matrices, structs, pointers, and file handling.
+* `Mini-Projects` — Small C++ systems and practical projects.
 
-* `02-level-2-algorithms`
-  Algorithmic problem-solving exercises.
+## Progress
 
-* `03-level-3-problem-solving`
-  Intermediate C++ problem-solving exercises.
-
-* `04-level-4-advanced-cpp`
-  Advanced C++ exercises, including strings, vectors, matrices, file handling, and small systems.
-
-* `mini-projects`
-  Small C++ systems and mini projects built during the learning journey.
+* Level 01 — Completed
+* Level 02 — Completed
+* Level 03 — Completed
+* Level 04 — In Progress
 
 ## Goal
 
-The goal of this repository is to organize my C++ practice, track my progress, and build a clean portfolio of problem-solving work.
+The goal of this repository is to organize my C++ practice, document my progress, and build a clear portfolio of my problem-solving work.
